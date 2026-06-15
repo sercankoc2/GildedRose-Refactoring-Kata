@@ -1,4 +1,21 @@
 # Gilded Rose starting position in C# NUnit
+## Refactoring Strategy
+We used Pair Programming over Discord to implement the needed changes.
+We used AI as well to change the complete structure of the code without\
+changing the Test Cases.\
+All Test cases work
+
+### Prompts
+```
+The GilededRoses csharp Nunit, please rewrite me this with enums and cleaner
+[source code of GildedRose.cs]
+please give me an updated version of this, in more clean and reliable fashion
+```
+
+```
+add comments and separately a more solid approach
+[new source code]
+```
 
 ## Testing Strategy
 ### AI Testing
